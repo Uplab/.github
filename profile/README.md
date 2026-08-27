@@ -13,7 +13,7 @@ Custom software company · Ukraine · [uplab.io](https://uplab.io)
 
 </div>
 
-The first 80% of a software product takes days now. The last 20% — security, tenancy, reliability, the audit trail — still takes engineering. We do both halves, and we say which one you need.
+With AI, the first 80% of a software product takes days. The last 20% — security, tenancy, reliability, the audit trail — still takes engineering. We do both halves, and we say which one you need.
 
 ### What we open-source
 
