@@ -2,8 +2,8 @@
 
 <a href="https://uplab.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/assets/uplab-logo-dark.svg">
-    <img src="profile/assets/uplab-logo.svg" alt="Uplab" width="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uplab/.github/main/profile/assets/uplab-logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/Uplab/.github/main/profile/assets/uplab-logo.svg" alt="Uplab" width="150" />
   </picture>
 </a>
 
