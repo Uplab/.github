@@ -1,10 +1,15 @@
 <div align="center">
 
-# Uplab
+<a href="https://uplab.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/assets/uplab-logo-dark.svg">
+    <img src="profile/assets/uplab-logo.svg" alt="Uplab" width="150" />
+  </picture>
+</a>
 
 **Fast to prototype. Serious about production.**
 
-Custom software studio · Ukraine · [uplab.io](https://uplab.io)
+Custom software company · Ukraine · [uplab.io](https://uplab.io)
 
 </div>
 
